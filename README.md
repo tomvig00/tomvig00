@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Tom, a third year CS-Math student at HUJI.
 
 <!--
 **tomvig00/tomvig00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
